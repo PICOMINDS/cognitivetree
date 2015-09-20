@@ -14,71 +14,71 @@ Contents:
 ========
  MATHS
 ========
-.. include:: Maths.xtxt
-.. image:: images/MATHS.jpg
+.. include:: _xtxt/Maths.xtxt
+.. image:: _images/MATHS.jpg
 
 ========
  LOGIC
 ========
-.. include:: Logic.xtxt
-.. image:: images/LOGIC.jpg
+.. include:: _xtxt/Logic.xtxt
+.. image:: _images/LOGIC.jpg
 
 ===================
  THINKING IN MATHS 
 ===================
-.. include:: MathProblemSolving.xtxt
-.. image:: images/LOGIC.jpg
+.. include:: _xtxt/MathProblemSolving.xtxt
+.. image:: _images/LOGIC.jpg
 
 ===================
  CRITICAL THINKING
 ===================
-.. include:: CriticalThinking.xtxt
-.. image:: images/THINKING_IN_MATHS.jpg
+.. include:: _xtxt/CriticalThinking.xtxt
+.. image:: _images/THINKING_IN_MATHS.jpg
 
 =========
  SCIENCE
 =========
-.. include:: science.xtxt
-.. image:: images/SCIENCE.png
+.. include:: _xtxt/science.xtxt
+.. image:: _images/SCIENCE.png
 
 =====================
  SCIENCITIFIC METHOD
 =====================
-.. include:: ScienceGoals.xtxt
-.. image:: images/SCIENTIFIC_METHOD.jpg
+.. include:: _xtxt/ScienceGoals.xtxt
+.. image:: _images/SCIENTIFIC_METHOD.jpg
 
 =========
  ENGLISH
 =========
-.. include:: english.xtxt
-.. image:: images/ELEMENTS_OF_LANGUAGE.jpg
+.. include:: _xtxt/english.xtxt
+.. image:: _images/ELEMENTS_OF_LANGUAGE.jpg
 
 ============
  VOCABULARY
 ============
-.. include:: Vocabulary.xtxt
-.. image:: images/VOCABULARY.jpg
+.. include:: _xtxt/Vocabulary.xtxt
+.. image:: _images/VOCABULARY.jpg
 
 ============
  GEOGRAPHY
 ============
-.. include:: Geography.xtxt
-.. image:: images/GEOGRAPHY.jpg
+.. include:: _xtxt/Geography.xtxt
+.. image:: _images/GEOGRAPHY.jpg
 
 ==========
  HISTORY
 ==========
-.. include:: History.xtxt
-.. image:: images/AMERICAN_HISTORY.jpg
+.. include:: _xtxt/History.xtxt
+.. image:: _images/AMERICAN_HISTORY.jpg
 
 ===========
  ANTHOLOGY
 ===========
-.. include:: anthology.xtxt
-.. image:: images/ANTHOLOGY.jpg
+.. include:: _xtxt/anthology.xtxt
+.. image:: _images/ANTHOLOGY.jpg
 
 ========
  BOOKS
 ========
-.. include:: books.xtxt
-.. image:: images/BOOKS.jpg
+.. include:: _xtxt/books.xtxt
+.. image:: _images/BOOKS.jpg
