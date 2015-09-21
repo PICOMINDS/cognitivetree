@@ -27,13 +27,13 @@ Contents:
  THINKING IN MATHS 
 ===================
 .. include:: MathProblemSolving.xtxt
-.. image:: images/LOGIC.jpg
+.. image:: images/THINKING_IN_MATHS.jpg
 
 ===================
  CRITICAL THINKING
 ===================
 .. include:: CriticalThinking.xtxt
-.. image:: images/THINKING_IN_MATHS.jpg
+.. image:: images/CRITICAL_THINKING.jpg
 
 =========
  SCIENCE
@@ -42,7 +42,7 @@ Contents:
 .. image:: images/SCIENCE.png
 
 =====================
- SCIENCITIFIC METHOD
+ SCIENTIFIC METHOD
 =====================
 .. include:: ScienceGoals.xtxt
 .. image:: images/SCIENTIFIC_METHOD.jpg

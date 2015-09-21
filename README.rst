@@ -14,71 +14,71 @@ Contents:
 ========
  MATHS
 ========
-.. include:: _xtxt/Maths.xtxt
-.. image:: _images/MATHS.jpg
+.. include:: Maths.xtxt
+.. image:: images/MATHS.jpg
 
 ========
  LOGIC
 ========
-.. include:: _xtxt/Logic.xtxt
-.. image:: _images/LOGIC.jpg
+.. include:: Logic.xtxt
+.. image:: images/LOGIC.jpg
 
 ===================
  THINKING IN MATHS 
 ===================
-.. include:: _xtxt/MathProblemSolving.xtxt
-.. image:: _images/LOGIC.jpg
+.. include:: MathProblemSolving.xtxt
+.. image:: images/THINKING_IN_MATHS.jpg
 
 ===================
  CRITICAL THINKING
 ===================
-.. include:: _xtxt/CriticalThinking.xtxt
-.. image:: _images/THINKING_IN_MATHS.jpg
+.. include:: CriticalThinking.xtxt
+.. image:: images/CRITICAL_THINKING.jpg
 
 =========
  SCIENCE
 =========
-.. include:: _xtxt/science.xtxt
-.. image:: _images/SCIENCE.png
+.. include:: science.xtxt
+.. image:: images/SCIENCE.png
 
 =====================
- SCIENCITIFIC METHOD
+ SCIENTIFIC METHOD
 =====================
-.. include:: _xtxt/ScienceGoals.xtxt
-.. image:: _images/SCIENTIFIC_METHOD.jpg
+.. include:: ScienceGoals.xtxt
+.. image:: images/SCIENTIFIC_METHOD.jpg
 
 =========
  ENGLISH
 =========
-.. include:: _xtxt/english.xtxt
-.. image:: _images/ELEMENTS_OF_LANGUAGE.jpg
+.. include:: english.xtxt
+.. image:: images/ELEMENTS_OF_LANGUAGE.jpg
 
 ============
  VOCABULARY
 ============
-.. include:: _xtxt/Vocabulary.xtxt
-.. image:: _images/VOCABULARY.jpg
+.. include:: Vocabulary.xtxt
+.. image:: images/VOCABULARY.jpg
 
 ============
  GEOGRAPHY
 ============
-.. include:: _xtxt/Geography.xtxt
-.. image:: _images/GEOGRAPHY.jpg
+.. include:: Geography.xtxt
+.. image:: images/GEOGRAPHY.jpg
 
 ==========
  HISTORY
 ==========
-.. include:: _xtxt/History.xtxt
-.. image:: _images/AMERICAN_HISTORY.jpg
+.. include:: History.xtxt
+.. image:: images/AMERICAN_HISTORY.jpg
 
 ===========
  ANTHOLOGY
 ===========
-.. include:: _xtxt/anthology.xtxt
-.. image:: _images/ANTHOLOGY.jpg
+.. include:: anthology.xtxt
+.. image:: images/ANTHOLOGY.jpg
 
 ========
  BOOKS
 ========
-.. include:: _xtxt/books.xtxt
-.. image:: _images/BOOKS.jpg
+.. include:: books.xtxt
+.. image:: images/BOOKS.jpg
