@@ -1,0 +1,9 @@
+
+===========================================
+VOCABULARY
+===========================================
+
+.. include:: xtxt/Vocabulary.xtxt
+.. image:: images/VOCABULARY.jpg
+
+

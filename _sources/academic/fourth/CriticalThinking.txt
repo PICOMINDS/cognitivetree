@@ -1,0 +1,7 @@
+
+===========================================
+CRITICAL THINKING
+===========================================
+
+.. include:: xtxt/CriticalThinking.xtxt
+.. image:: images/THINKING_IN_MATHS.jpg
