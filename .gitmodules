@@ -1,0 +1,4 @@
+[submodule "cognitivetree"]
+	path = cognitivetree
+	url = https://github.com/PICOMINDS/cognitivetree.git
+	branch = gh-pages
