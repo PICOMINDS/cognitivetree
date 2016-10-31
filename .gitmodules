@@ -2,3 +2,7 @@
 	path = cognitivetree
 	url = https://github.com/PICOMINDS/cognitivetree.git
 	branch = gh-pages
+[submodule "publish"]
+	path = publish
+	url = https://github.com/PICOMINDS/cognitivetree.git
+	branch = gh-pages
