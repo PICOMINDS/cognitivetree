@@ -1,0 +1,8 @@
+
+===========================================
+THINKING IN MATHS
+===========================================
+
+.. include:: xtxt/MathProblemSolving.xtxt
+.. image:: images/LOGIC.jpg
+

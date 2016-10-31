@@ -1,0 +1,7 @@
+===========================================
+SCIENTIFIC METHOD
+===========================================
+
+.. include:: xtxt/ScienceGoals.xtxt
+.. image:: images/SCIENTIFIC_METHOD.jpg
+

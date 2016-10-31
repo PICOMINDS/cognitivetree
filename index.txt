@@ -1,0 +1,15 @@
+
+Fourth Grade
+=================
+
+.. toctree::
+    :maxdepth: 2
+
+    academic/fourth/index
+
+Indices and tables
+==================
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

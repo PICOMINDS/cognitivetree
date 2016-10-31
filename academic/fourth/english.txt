@@ -1,0 +1,7 @@
+
+===========================================
+ELEMENTS OF LANGUAGE
+===========================================
+
+.. include:: xtxt/english.xtxt
+.. image:: images/ELEMENTS_OF_LANGUAGE.jpg

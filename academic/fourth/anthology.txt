@@ -1,0 +1,7 @@
+
+===========================================
+ANTHOLOGY
+===========================================
+
+.. include:: xtxt/anthology.xtxt
+.. image:: images/ANTHOLOGY.jpg

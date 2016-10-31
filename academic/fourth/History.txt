@@ -1,0 +1,7 @@
+
+===========================================
+AMERICAN HISTORY
+===========================================
+
+.. include:: xtxt/History.xtxt
+.. image:: images/AMERICAN_HISTORY.jpg
